@@ -30,4 +30,4 @@ A synthetic dataset of 1,000 users, with control and treatment groups, including
 - Document key findings and insights
 
 ---
-*Created by [Chi Ho](https://github.com/phuongchi911) | Inspired by real-world work in Lending analytics*
+*Created by [Chi Ho](https://github.com/phuongchi911) | 
