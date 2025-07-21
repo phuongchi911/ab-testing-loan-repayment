@@ -21,7 +21,7 @@ A synthetic dataset of 1,000 users, with control and treatment groups, including
 - Test statistical significance of any observed differences
 
 ## 📂 Files
-- `notebook.ipynb`: Jupyter notebook with full analysis (to be created)
+- `notebook.ipynb`: Jupyter notebook with full analysis
 - `data/synthetic_loan_data.csv`: Synthetic loan-level data for analysis
 
 ## 📈 Next Steps
