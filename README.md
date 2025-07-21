@@ -24,10 +24,22 @@ A synthetic dataset of 1,000 users, with control and treatment groups, including
 - `notebook.ipynb`: Jupyter notebook with full analysis
 - `data/synthetic_loan_data.csv`: Synthetic loan-level data for analysis
 
-## 📈 Next Steps
-- Add A/B testing analysis using statistical tests
-- Visualize repayment distributions
-- Document key findings and insights
+### ✅ Conclusion
+
+Based on the A/B test results comparing repayment rates between the treatment and control groups:
+
+- The **treatment group**, which had access to the early repayment feature, showed a **higher proportion of on-time repayments** compared to the control group.
+- The **z-test produced a p-value < 0.05**, indicating that the observed difference is **statistically significant** and unlikely to have occurred by chance.
+
+This suggests that the early repayment feature may have a **positive impact on repayment behavior**, reducing the risk of default and improving overall loan performance.
+
+---
+
+### 📌 Next Steps
+- Monitor repayment behavior over a longer period and across more diverse user segments
+- Combine with user-level features (e.g., credit score, tenure) for more granular cohort analysis
+- Estimate business impact (e.g., net loss reduction, operational efficiency)
+
 
 ---
 *Created by [Chi Ho](https://github.com/phuongchi911) | 
